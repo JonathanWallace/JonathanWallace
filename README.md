@@ -1,4 +1,15 @@
-### Hi there 👋
+### Olá galera! 👋
+
+###### Sobre o Jonathan
+Um estudante de tecnologia, que está atrás de aprender e se desenvolver na área.
+
+### Detalhes
+
+### Projetos
+
+### Linguagens utilizadas
+
+### Contatos
 
 <!--
 **JonathanWallace/JonathanWallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
