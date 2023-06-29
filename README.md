@@ -1,27 +1,25 @@
-### Olá galera! 👋
+# Olá galera! 👋
 
-###### Sobre o Jonathan
-Um estudante de tecnologia, que está atrás de aprender e se desenvolver na área.
+###### Sobre mim  
+Sou gestor de loja na area de alimentação, diáriamente lido com Análise de Dados, Gestão de Pessoas, Gestão de Estoque e Foco em Resultados, entre outros.  
+Sou um estudante de tecnologia, que está atrás de aprender e se desenvolver na área.   
 
-### Detalhes
+### 📚Detalhes
+Sou formado em TI, pelo curso técnico da ETEC.  
+Onde aprendi sobre:  
+-Lógica de Programação  
+-Análise de Programação  
+-Desenvolvimento de Software  
+-Tecnicas e Linguagens de Banco de Dados  
+-Gestão de Sistemas Operacionais 
 
-### Projetos
+Atualmente estou estudando a linguagem Python com foco em Análise de Dados.  
+Já aprendi também a trabalhar com HTML, CSS e JavaScript de maneira mais básica.  
+E estou inicialmente focado em Backend.
 
-### Linguagens utilizadas
+### 💻Tecnologias
 
-### Contatos
+### ⚙️Projetos
 
-<!--
-**JonathanWallace/JonathanWallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☎️Contatos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
