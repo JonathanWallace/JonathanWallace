@@ -13,9 +13,9 @@ Onde aprendi sobre:
 -Tecnicas e Linguagens de Banco de Dados  
 -Gestão de Sistemas Operacionais 
 
-Atualmente estou estudando a linguagem Python com foco em Análise de Dados.  
+Atualmente estou estudando a linguagem Python com foco em Análise de Dados, e Java com foco em backend.  
 Já aprendi também a trabalhar com HTML, CSS e JavaScript de maneira mais básica.  
-E estou inicialmente focado em Backend.
+E estou inicialmente focado em Análise de Dados e Backend.
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
